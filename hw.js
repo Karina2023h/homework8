@@ -10,6 +10,7 @@ let ladder = {
   },
   showStep: function () {
     alert(this.object);
+    // console.log(this.object);
     return this;
   },
 };
